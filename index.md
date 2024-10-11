@@ -4,7 +4,7 @@
 
 ### Sentiment Analysis
 
-[Project 1 Title](/sample_page)
+[How Influencer Marketing is Shaping Tourism Trends](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
